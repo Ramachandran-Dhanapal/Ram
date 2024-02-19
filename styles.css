@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: navy;
+  }
+  
+  .resultParas p {
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    background: #f3f3f3;
+  }
+  
